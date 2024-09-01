@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "9a3c4d9a6f61ef82",
+    "type": "split",
+    "children": [
+      {
+        "id": "377d2da681ad3f24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f32a388c257f2aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/Data Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e44bff62e25e235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOPS/The 4 Pillars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31ba94e90f90bdd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/RDBMS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ccdb88312c56c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "10445da8560694d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b35dff034d16b759",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "409636d7e66e47eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db98a209573c695f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "88c521a48cff4c5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab0334a56cebb7b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "910667945635f40d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DBMS/Data Models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "047fe99f9f6d9b1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DBMS/Data Models.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d98127117187e194",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ed74ba52756da28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DBMS/Data Models.md"
+              }
+            }
+          },
+          {
+            "id": "772f0e1b756e0888",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f32a388c257f2aee",
+  "lastOpenFiles": [
+    "Java.md",
+    "Index.md",
+    "OOPS/The 4 Pillars.md",
+    "DBMS/RDBMS.md",
+    "Untitled.canvas",
+    "Node.JS.md",
+    "Javascript/Javascript.md",
+    "Javascript/Functions.md",
+    "OOPS/The Keywords.md",
+    "OOPS/OOPS.md",
+    "OOPS/Introduction.md",
+    "DBMS/DBMS.md",
+    "OOPS/Constructors.md",
+    "Questions/SIngle Number 3.md",
+    "Questions/Single Number 2.md",
+    "Transaction Management.md",
+    "Images/Pasted image 20240831153555.png",
+    "Images/Pasted image 20240831153534.png",
+    "Images/Pasted image 20240831152721.png",
+    "Images/Pasted image 20240831152632.png",
+    "MongoDB.md",
+    "Images/Pasted image 20240831152418.png",
+    "Images/Pasted image 20240831150129.png",
+    "Images/Pasted image 20240831145428.png",
+    "DBMS/Normalization.md",
+    "Images/Pasted image 20240831142615.png",
+    "Images/Pasted image 20240831142609.png",
+    "Images/Pasted image 20240831142523.png",
+    "DBMS/Data Models.md",
+    "DBMS/Introduction.md",
+    "DBMS/SQL.md",
+    "Javascript/Asynchronous Calls.md",
+    "Questions/Questions on Dynamic Programming.md",
+    "Questions/Triangle.md",
+    "Callbacks.md",
+    "Questions/Accounts Merge.md",
+    "Questions/Find the city with the smallest number of neighbours in a threshold distance.md",
+    "0",
+    "OOPS",
+    "Questions",
+    "DSA/Graphs",
+    "Javascript",
+    "DBMS/SQL",
+    "DBMS/RDBMS",
+    "DBMS/Normalization",
+    "DBMS/Introduction",
+    "DBMS/Data Models",
+    "Images/Untitled.canvas"
+  ]
+}
