@@ -2,7 +2,5 @@
   "table-editor-obsidian",
   "templater-obsidian",
   "obsidian-languagetool-plugin",
-  "obsidian-git",
-  "obsidian-kanban",
-  "code-styler"
+  "syncthing-integration"
 ]
