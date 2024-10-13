@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d80636629c5b2d1",
+        "id": "1111891187c7880c",
         "type": "tabs",
         "children": [
           {
-            "id": "d37efaa0892cbf20",
+            "id": "d579c3facdb861b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Functions.md",
-                "mode": "preview",
+                "file": "B.Tech/Distributed Computing/Communications in DPC.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Javascript/Functions.md",
+            "file": "B.Tech/Distributed Computing/Communications in DPC.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Javascript/Functions.md",
+            "file": "B.Tech/Distributed Computing/Communications in DPC.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Javascript/Functions.md"
+            "file": "B.Tech/Distributed Computing/Communications in DPC.md"
           }
         }
       }
@@ -134,14 +134,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d37efaa0892cbf20",
+  "active": "d579c3facdb861b7",
   "lastOpenFiles": [
-    "Javascript/Asynchronous Calls.md",
-    "Promise.md",
-    "Javascript/Functions.md",
     "Node.JS.md",
-    "Questions/Single Number 2.md",
+    "Javascript/Asynchronous Calls.md",
+    "JavaScript Basics.md",
     "MongoDB.md",
+    "OOPS/Constructors.md",
+    "Promise.md",
+    "Javascript/Javascript.md",
+    "Callbacks.md",
+    "Javascript/Functions.md",
+    "Questions/Single Number 2.md",
     "Questions/Single Number.md",
     "DBMS/Data Models.md"
   ]
